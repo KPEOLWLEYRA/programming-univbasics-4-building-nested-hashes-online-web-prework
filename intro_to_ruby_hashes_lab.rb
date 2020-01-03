@@ -22,7 +22,7 @@ def monopoly_with_third_tier
   # complexity.
     monopoly_with_third_tier = monopoly_with_second_tier
   	monopoly_with_third_tier[:railroads][:rent_in_dollars] = {
-  	  :key1 => "1", 
+  	  :names => "1", 
   	  :key2 => "2", 
   	  :key3 => "3", 
   	  :key4 => "4"
