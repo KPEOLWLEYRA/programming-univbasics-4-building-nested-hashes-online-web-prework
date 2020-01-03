@@ -21,9 +21,9 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   complexity.
-  	monopoly_with_second_tier = {:railroads => {} }
-  	monopoly_with_second_tier[:railroads][:pieces] = 4
-	monopoly_with_second_tier
+  	monopoly_with_third_tier = {:railroads => {} }
+  	monopoly_with_third_tier[:railroads][:pieces] = 4
+	monopoly_with_third_tier
   
 end
 
