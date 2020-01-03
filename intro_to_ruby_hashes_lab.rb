@@ -59,9 +59,9 @@ def monopoly_with_fourth_tier
   	} 
   	monopoly_with_third_tier[:railroads][:names] = {
   	  :reading_railroad => {"mortgage_value" => "$100"}, 
-  	  :pennsylvania_railroad => {"mortgage_value" => "$100"}, 
-  	  :b_and_o_railroad => {"mortgage_value" => "$100"}, 
-  	  :shortline_railroad => {"mortgage_value" => "$100"}, 
+  	  :pennsylvania_railroad => {"mortgage_value" => "$200"}, 
+  	  :b_and_o_railroad => {"mortgage_value" => "$300"}, 
+  	  :shortline_railroad => {"mortgage_value" => "$400"}, 
   	}
 	monopoly_with_third_tier
   
