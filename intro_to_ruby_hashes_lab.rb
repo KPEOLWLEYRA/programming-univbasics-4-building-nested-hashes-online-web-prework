@@ -27,6 +27,7 @@ def monopoly_with_third_tier
   	  :key3 => "3", 
   	  :key4 => "4"
   	} 
+  	monopoly_with_third_tier[:railroads][:names]
 	monopoly_with_third_tier
   
 end
