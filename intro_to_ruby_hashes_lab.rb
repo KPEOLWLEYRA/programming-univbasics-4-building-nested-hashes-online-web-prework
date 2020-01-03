@@ -23,7 +23,7 @@ def monopoly_with_third_tier
   complexity.
   	monopoly_with_third_tier = {:railroads => {} }
   	monopoly_with_third_tier[:railroads][:pieces] = 4
-  	monopoly_with_third_tier[:railroads][:rent_in_dollars] 
+  	monopoly_with_third_tier[:railroads][:rent_in_dollars] = []
 	monopoly_with_third_tier
   
 end
